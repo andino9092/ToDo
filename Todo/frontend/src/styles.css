@@ -1,0 +1,18 @@
+/* const emptyStyle = {
+    opacity: "50%",
+    fontSize: "60px",
+    fontFamily: "Open Sans",
+    letterSpacing: "5px",
+    textShadow: "2px 2px",
+  } */
+
+.emptyStyle{
+    opacity: 50%;
+    font-size: 60px;
+    font-family: "Open Sans";
+    letter-spacing: 5px;
+    text-shadow: 2px 2px;
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
